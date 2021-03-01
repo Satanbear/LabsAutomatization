@@ -1,0 +1,10 @@
+test\SecurityConfig.class
+test\DAO\ModelImpl.class
+test\DAO\DAOFoodStuffs.class
+test\SimpleCorsFilter.class
+test\controller\Controller.class
+test\MainApp.class
+test\DAO\ModelImplI.class
+test\Main.class
+test\DAO\ConnectionJDBC.class
+test\model\Foodstuffs.class

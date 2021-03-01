@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <foodstuffs id="1" name="Хлеб" purchasePrice="3300" amount="100" markup="3" shelfLife="2021-08-20"/>
+    <foodstuffs id="2" name="Мясо" purchasePrice="6000" amount="20" markup="10" shelfLife="2020-12-02"/>
+    <foodstuffs id="3" name="Сыр" purchasePrice="4500" amount="30" markup="15" shelfLife="2020-11-02"/>
+    <foodstuffs id="4" name="Йогурт" purchasePrice="1500" amount="50" markup="2" shelfLife="2021-07-15"/>
+    <foodstuffs id="5" name="Масло" purchasePrice="9600" amount="120" markup="5" shelfLife="2020-12-19"/>
+    <foodstuffs id="6" name="Рис" purchasePrice="3850" amount="70" markup="7" shelfLife="2020-12-04"/>
+    <foodstuffs id="7" name="Гречка" purchasePrice="2100" amount="35" markup="7" shelfLife="2021-11-10"/>
+    <foodstuffs id="8" name="Макароны" purchasePrice="9000" amount="200" markup="2" shelfLife="2020-12-25"/>
+    <foodstuffs id="9" name="Сосиски" purchasePrice="1800" amount="10" markup="9" shelfLife="2020-10-21"/>
+    <foodstuffs id="10" name="Рыба" purchasePrice="2800" amount="5" markup="15" shelfLife="2021-08-16"/>
+    <foodstuffs id="11" name="Сок" purchasePrice="1005" amount="15" markup="7" shelfLife="2020-12-29"/>
+    <foodstuffs id="12" name="Яйца" purchasePrice="5929" amount="77" markup="1" shelfLife="2020-09-01"/>
+    <foodstuffs id="13" name="Помидоры" purchasePrice="24500" amount="500" markup="2" shelfLife="2020-12-11"/>
+    <foodstuffs id="14" name="Огурцы" purchasePrice="46900" amount="700" markup="1" shelfLife="2021-11-22"/>
+    <foodstuffs id="15" name="Перец" purchasePrice="3400" amount="100" markup="3" shelfLife="2020-10-16"/>
+    <foodstuffs id="16" name="Яблоки" purchasePrice="31920" amount="456" markup="4" shelfLife="2021-12-02"/>
+    <foodstuffs id="17" name="Бананы" purchasePrice="3894" amount="66" markup="5" shelfLife="2020-10-30"/>
+    <foodstuffs id="18" name="Лук" purchasePrice="1400" amount="200" markup="1" shelfLife="2020-12-19"/>
+    <foodstuffs id="19" name="Молоко" purchasePrice="864" amount="16" markup="20" shelfLife="2021-10-15"/>
+    <foodstuffs id="20" name="Пельмени" purchasePrice="19500" amount="78" markup="8" shelfLife="2020-12-30"/>
+    <productdetails name="Хлеб" priceforoneitem="33" purchaseprice="3300" profit="84"/>
+    <productdetails name="Йогурт" priceforoneitem="30" purchaseprice="1500" profit="26"/>
+    <productdetails name="Гречка" priceforoneitem="60" purchaseprice="2100" profit="126"/>
+    <productdetails name="Рыба" priceforoneitem="560" purchaseprice="2800" profit="360"/>
+    <productdetails name="Огурцы" priceforoneitem="67" purchaseprice="46900" profit="408"/>
+    <productdetails name="Яблоки" priceforoneitem="70" purchaseprice="31920" profit="1108"/>
+    <productdetails name="Молоко" priceforoneitem="54" purchaseprice="864" profit="140"/>
+    <expiredproducts name="Мясо"/>
+    <expiredproducts name="Сыр"/>
+    <expiredproducts name="Масло"/>
+    <expiredproducts name="Рис"/>
+    <expiredproducts name="Макароны"/>
+    <expiredproducts name="Сосиски"/>
+    <expiredproducts name="Сок"/>
+    <expiredproducts name="Яйца"/>
+    <expiredproducts name="Помидоры"/>
+    <expiredproducts name="Перец"/>
+    <expiredproducts name="Бананы"/>
+    <expiredproducts name="Лук"/>
+    <expiredproducts name="Пельмени"/>
+</dataset>
